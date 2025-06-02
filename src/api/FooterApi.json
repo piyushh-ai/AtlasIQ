@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Bhopal, Madhya Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9179504582"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "thepiyushsirolia@gmail.com"
+    }
+  ]
