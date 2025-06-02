@@ -15,7 +15,7 @@ const Header = () => {
         <div className="grid navbar-grid">
           <div className="logo">
             <NavLink to="/" >
-              <h1>World Atlas</h1>
+              <h1>AtlasIQ</h1>
             </NavLink>
           </div>
           
